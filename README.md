@@ -1,6 +1,6 @@
-# [PROJECT NAME] Readme
+# RPi-OLED Readme
 
-[Purpose of the project]
+Adapter board for using a generic OLED with a Raspberry Pi
 
 > [!WARNING]
 > Before using this repo, make sure to run the 'setup-hooks.sh' script first.
