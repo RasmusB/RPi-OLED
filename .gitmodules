@@ -1,0 +1,4 @@
+[submodule "Scripts"]
+	path = Scripts
+	url = https://github.com/RasmusB/Project-Scripts-KiCAD.git
+	branch = main
