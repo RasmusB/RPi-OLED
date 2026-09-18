@@ -12,7 +12,7 @@ This is used for major changes in mechanical or electrical behaviour that makes 
 
 ## Minor changes
 
-This is meant for smaller changes that are meant to be included in the next production batch. The production release files will always have '0' as the subrevision.
+This is meant for smaller changes that are meant to be included in the next production batch. The production release files will always have '0' as the patch revision.
 
 - Any changes to the PCB: changed routing, stackup, board finish etc.
 - Mechanical changes that does not cause mechanical issues
